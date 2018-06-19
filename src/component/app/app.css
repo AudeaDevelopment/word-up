@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+* {
+  border: 1px solid purple;
+}
+
+.board {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.section-one {
+  border: 1px solid red;
+  width: 50vw;
+  height: 50vh;
+  font-size: 3em;
+}
+
+.section-two {
+  border: 1px solid red;
+  width: 50vw;
+  height: 50vh;
+  font-size: 2em;
+}
